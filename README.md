@@ -25,3 +25,5 @@ To see whats currently planned, go to the projects tab, and look for `Main Proje
 > Okay i forgot to mention, but this is just for funsies. Since i saw a few multitools, i gotten the motivation to make one.
 >
 > (Maybe in the way i can get serious of making this and make this project come true..)
+
+![Repobeats Analytics](https://repobeats.axiom.co/api/embed/f1c55495f7862d043d4f8ec42fa49c91704ca110.svg "Repobeats analytics image")
