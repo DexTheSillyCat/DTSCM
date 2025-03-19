@@ -26,4 +26,4 @@ To see whats currently planned, go to the projects tab, and look for `Main Proje
 >
 > (Maybe in the way i can get serious of making this and make this project come true..)
 
-![Alt](https://repobeats.axiom.co/api/embed/21b5e3197109f8aee9e98c438f2c7c1c512e106c.svg "Repobeats analytics image")
+![Repobeats Analytics](https://repobeats.axiom.co/api/embed/21b5e3197109f8aee9e98c438f2c7c1c512e106c.svg "Repobeats analytics image")
