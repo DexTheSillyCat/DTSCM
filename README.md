@@ -3,6 +3,8 @@ Hello hello! Right now you are seeing my first, best attempted multitools!
 
 To see whats currently planned, go to the projects tab, and look for `Main Project`.
 
+(Psst. Hey! You have a chance right now to get your feature added to this!)
+
 ## Disclaimers
 > [!WARNING]
 > The multitools is in the planning stage. You wont be able to test it in the moment right now.
