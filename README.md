@@ -24,7 +24,7 @@ To see whats currently planned, go to the projects tab, and look for `Main Proje
 > Reminder, if there is plenty of requested features, then ill invididually choose which suites the best for the sake of the multitools.
 
 > [!NOTE]
-> Okay i forgot to mention, but this is just for funsies. Since i saw a few multitools, i gotten the motivation to make one.
+> Okay i forgot to mention, but this is just for funsies. Since i saw a few multitools, i gotten the motivation to make one. (especially SMT)
 >
 > (Maybe in the way i can get serious of making this and make this project come true..)
 
