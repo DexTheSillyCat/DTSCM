@@ -8,18 +8,7 @@ To see whats currently planned, go to the projects tab, and look for `Main Proje
 ## Disclaimers
 > [!WARNING]
 > The multitools is in the planning stage. You wont be able to test it in the moment right now.
-> However, if you want to suggest features, options, or anything, do one of the following:
-> - Open an issue.
->    - The most easiest but hardest for me to do.
->    - Just type in the feature details and any other information, and bam! You are done.
-> - Open a pull request.
->    - The most hardest but a bit easier for me to do.
->    - First off, fork this repository or make a branch.
->    - Implement what feature you wish.
->    - Make a pull request with a bit of info for me to review.
->    - If accepted, it will be merged!
->
-> (You will be credited as a contributer, if accepted.)
+> However, if you want to suggest features, options, or anything, check the `Contributing` tab/file.
 > 
 > Reminder, if there is plenty of requested features, then ill invididually choose which suites the best for the sake of the multitools.
 
