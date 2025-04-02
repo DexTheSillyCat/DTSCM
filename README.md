@@ -28,5 +28,8 @@ To see whats currently planned, go to the projects tab, and look for `Main Proje
 >
 > (Maybe in the way i can get serious of making this and make this project come true..)
 
+## Licence
+This project, which is DTSCM, is licenced under the MIT Licence. See [here](https://github.com/DexTheSillyCat/DTSCM/blob/main/LICENSE "Licence") for more info.
+
 ### Repobeats Analytics
 ![Repobeats Analytics](https://repobeats.axiom.co/api/embed/21b5e3197109f8aee9e98c438f2c7c1c512e106c.svg "Repobeats analytics image")
