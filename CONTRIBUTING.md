@@ -15,7 +15,7 @@
 >    - Make a pull request with a bit of info for me to review.
 >    - If accepted, it will be merged!
 > 
-> ### However, if theres a bug you found and needs to be fixed, theres ONE option:
+> ### However, if theres a bug you found and needs to be fixed, theres TWO options:
 > - Open an issue.
 >    - Very simple, just tell the bug and where is it triggering, and if possible, point out the code that is faulty.
 > - Open a pull request.
