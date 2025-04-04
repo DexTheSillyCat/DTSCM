@@ -1,9 +1,9 @@
 ## Security
 
-If you find a vunerability inside of the source code, or something that violates a privacy, or something, please report it on the `Security` tab.
+If you find a vunerability inside of the source code, or something that violates a privacy, or something, please let us know as soon as possible!
 
-> [!NOTE]
-> You can also report vunerabiliries in one of these contacts:
+> [!IMPORTANT]
+> Please, do **NOT** make a public vunerability issue. Instead, send your report privately to one of these contacts:
 >
 > ### E-Mails
 >
