@@ -1,6 +1,6 @@
 ## Security
 
-If you find a vunerability inside of the source code, or something that violates a privacy, or something, please let us know as soon as possible!
+If you find a vunerability inside of the source code, or something that violates a privacy, or something, please let me know as soon as possible!
 
 > [!IMPORTANT]
 > Please, do **NOT** make a public vunerability issue. Instead, send your report privately to one of these contacts:
