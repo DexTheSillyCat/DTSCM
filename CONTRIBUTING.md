@@ -1,4 +1,7 @@
 ## Contributing
+
+*Any form of contributing (issues, pull requests, etc.) is greatly appreciated!*
+
 > [!TIP]
 > Hey! If you came here from the readme (to suggest features, enhancements, etc.), then read more of how to contribute!
 > Here are `2` ways to contribute:
