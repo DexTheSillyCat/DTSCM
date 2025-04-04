@@ -1,7 +1,7 @@
 # DTSCM (DexTheSillyCat's Multitools)
 Hello hello! Right now you are seeing my first, best attempted multitools!
 
-To see whats currently planned, go to the projects tab, and look for `Main Project`.
+To see whats currently planned, go to the projects tab, and look for `Main Project`, or go to `Issues` and check issues with the label `accepted`.
 
 (Psst. Hey! You have a chance right now to get your feature added to this!)
 
